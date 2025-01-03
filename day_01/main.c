@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 	int finalFloor = open - close;
 
 	printf("Final floor: %d \n", finalFloor);
-	if (firstBasement != 0) {
+	if (enterBasement != 0) {
 		printf("First Basement: %d \n", firstBasement);
 	};
 
